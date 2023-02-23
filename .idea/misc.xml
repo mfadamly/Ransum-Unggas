@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/drawable/cell_shape.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_adult_broiler.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_adult_laying_hens.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_baby_broiler.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_baby_laying_hens.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_criteria_broiler.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_criteria_laying_hens.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_detail_adult_broiler.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_detail_adult_laying_hens.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_detail_baby_broiler.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_detail_baby_laying_hens.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_detail_young_laying_hens.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_main.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/activity_young_laying_hens.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/cell_shape.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/fragment_about.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/layout/fragment_information.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS VivoBook/AndroidStudioProjects/RansumUnggas/app/src/main/res/mipmap-anydpi-v26/logo_ayam.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

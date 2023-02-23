@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Ransum Unggas</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="laying_hens">Ayam Petelur</string>
+    <string name="boilers">Ayam Potong</string>
+    <string name="baby">Umur 0 – 8 Minggu</string>
+    <string name="teenager">Umur 9 – 16 Minggu</string>
+    <string name="adult">Umur 17 Minggu - Afkir</string>
+    <string name="baby_broilers">Umur 0 – 4 Minggu</string>
+    <string name="adult_broilers">Umur 4 Minggu - Panen</string>
+    <string name="ingredient_desc">Bahan Pakan Yang Tersedia</string>
+    <string name="dedak">Dedak Halus</string>
+    <string name="jagung">Jagung Giling</string>
+    <string name="kelapa">Bungkil Kelapa</string>
+    <string name="kedelai">Bungkil Kedelai</string>
+    <string name="sagu">Ampas Sagu</string>
+    <string name="hitung">Hitung Pakan</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_info">Informasi</string>
+    <string name="title_about">Tentang</string>
+    <string name="broiler">Ayam Pedaging</string>
+    <string name="ingredient_need">Jumlah Kadar Bahan</string>
+    <string name="chiken_choice">Pilih Jenis Ayam</string>
+    <string name="tahu">Ampas Tahu</string>
+    <string name="kacang">Kacang Tanah</string>
+    <string name="pakan">Nama Bahan Pakan</string>
+    <string name="pk">Kandungan PK</string>
+    <string name="_11_9">11,9 %</string>
+    <string name="_41_3">41,3 %</string>
+    <string name="_21">21 %</string>
+    <string name="_9_7">9,7 %</string>
+    <string name="_43">43 %</string>
+    <string name="_2_3">2,3 %</string>
+    <string name="_25">25 %</string>
+    <string name="informasi">Informasi Kadar Nutrisi Dalam Bahan Pakan</string>
+    <string name="ransum_unggas">RANSUM UNGGAS</string>
+    <string name="name">Muhammad Fada Mulya</string>
+    <string name="npm">16105111050</string>
+    <string name="email">fadamly@gmail.com</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="isi_about">Aplikasi Ransum Unggas merupakan aplikasi yang digunakan untuk mengformulasikan ransum untuk ayam pedaging dan ayam petelur
+        dengan kadar protein yang telah ditentukan. Aplikasi ini menggunakan perhitungan dengan metode trial &amp; error dalam menentukan kadar bahan pakan yang digunakan.
+        Terdapat 7 bahan pakan yang tersedia untuk diformulasikan, bahan pakan tersebut dapat dilihat di menu informasi.</string>
+    <string name="copyright">Copiright by Muhammad Fada Mulya</string>
+    <string name="choice_rules">Pilih minimal 4 bahan pakan</string>
+    <string name="choice_rules2">Pilih minimal 3 bahan pakan</string>
+    <string name="source">Sumber: Ilmu Nutrisi Unggas Tahun 2018 dan Data Ilmu Makanan Untuk Indonesia Tahun 1980</string>
+</resources>

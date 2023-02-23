@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dicoding.fada.ransumunggas.ui.layinghens.adult.AdultLayingHensActivity"
+    android:background="@color/teal_primier">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical"
+        android:background="@drawable/half_rounded_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/ingredient_desc"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/dark_late_gray"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/choice_rules2"
+            android:textSize="12sp"
+            android:textColor="@color/dark_late_gray"
+            android:gravity="center"/>
+
+        <CheckBox
+            android:id="@+id/cbDedak"
+            style="@style/Widget.AppCompat.CompoundButton.CheckBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/dedak"
+            android:textColor="@color/dark_late_gray"
+            android:textStyle="bold"
+            tools:ignore="UsingOnClickInXml" />
+
+        <CheckBox
+            android:id="@+id/cbJagung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/jagung"
+            android:textColor="@color/dark_late_gray"
+            android:textStyle="bold"
+            tools:ignore="UsingOnClickInXml" />
+
+        <CheckBox
+            android:id="@+id/cbKelapa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/kelapa"
+            android:textColor="@color/dark_late_gray"
+            android:textStyle="bold"
+            tools:ignore="UsingOnClickInXml" />
+
+        <CheckBox
+            android:id="@+id/cbKacang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/kacang"
+            android:textColor="@color/dark_late_gray"
+            android:textStyle="bold"
+            tools:ignore="UsingOnClickInXml" />
+
+        <CheckBox
+            android:id="@+id/cbSagu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="onCheckboxClicked"
+            android:text="@string/sagu"
+            android:textColor="@color/dark_late_gray"
+            android:textStyle="bold"
+            tools:ignore="UsingOnClickInXml" />
+
+        <Button
+            android:id="@+id/buttonSend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="250dp"
+            android:text="@string/hitung"
+            android:textColor="@color/white_smoke"
+            android:background="@drawable/bg_button"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
